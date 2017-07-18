@@ -1,0 +1,42 @@
+.middle {
+    margin: 0 auto;
+    margin-left: 7%
+}
+
+.nav-main>li>a:hover {
+    color: #444;
+    background: #f7f7f7;
+    border-left-color: rgb(104, 179, 222);
+}
+
+
+.wrapper {
+    background: none !important;
+    box-shadow: none !important
+}
+
+.layout-boxed {
+    background: #ecf0f5 !important;
+}
+
+.btn>.badge {
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.font-small {
+    font-size: 12px !important
+}
+
+.darken {
+    color: black !important
+}
+
+.no-bottom-margin {
+    margin-bottom: 0px !important
+}
+
+.y-scroll-qnavs {
+    max-height: 200px;
+    overflow-y: scroll;
+}
